@@ -1,0 +1,1 @@
+This project aims to analyze credit card fraud data and how the transaction amount is affected by variables such as time of day, gender, etc. The goal is to create a regression model that predicts transaction amounts and visualize the results with human-readable date labels.
